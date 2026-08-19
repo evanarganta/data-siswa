@@ -151,7 +151,7 @@ $data_siswa = mysqli_query($koneksi, "SELECT * FROM siswa ORDER BY id DESC LIMIT
 
         footer {
             padding: 15px 20px;
-            font-size: 80%;
+            font-size: 100%;
             text-align: right;
             box-sizing: border-box;
         }
